@@ -1,0 +1,9 @@
+.foo {
+  color: #f07;
+  font-family: arial;
+}
+
+.foo__bar {
+  color: #70f;
+  top: 0;
+}
