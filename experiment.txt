@@ -5,4 +5,5 @@
 
 .foo__bar {
   color: #70f;
+  top: 0;
 }
