@@ -1,3 +1,7 @@
 .foo {
   color: #f07;
 }
+
+.foo__bar {
+  color: #70f;
+}
